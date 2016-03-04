@@ -5,6 +5,6 @@
     "main.scss"
   ],
   "sourcesContent": [],
-  "mappings": ";AAEA,IAAI,CAAC;EACH,gBAAgB,EAHV,OAAO,GAET",
+  "mappings": ";AAAA,MAAM,CAAC;EACL,gBAAgB,EAAE,UAAW,GADvB",
   "names": []
 }
